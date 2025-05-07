@@ -100,4 +100,4 @@ int main() {
 
 ## License
 
-The Perlin noise implementation is public domain (as noted in the original header). The rest of the code can be used under the MIT license.
+The Perlin noise implementation is public domain (as noted in the original header). The rest of the code can be used under the Apache license.
